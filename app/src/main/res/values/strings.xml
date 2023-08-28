@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gracetechnologies Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ad_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="my_Interstitial_Add" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="scroll_down_to_view_more_videos">Scroll Down to view more videos</string>
+</resources>
